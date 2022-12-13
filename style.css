@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    height: 150px;
+    border: 4px solid darkorange;
+    border-radius: 10%;
+    object-fit: cover;
+    object-position: top right;
+}
+
+.photo{
+    font-family: Monospaced;
+    text-align: center;
+
+}
